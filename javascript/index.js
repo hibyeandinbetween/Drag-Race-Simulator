@@ -9054,7 +9054,7 @@ let karen = new Queen("Karen From Finance", 5, 6, 5, 5, 7, 7, 5, "Karen");
 let kita = new Queen("Kita Mean", 9, 9, 7, 7, 9, 9, 8, "Kita");
 let maxi = new Queen("Maxi Shield", 6, 6, 5, 9, 7, 8, 8, "Maxi");
 let scarletA = new Queen("Scarlet Adams", 5, 5, 10, 11, 5, 8, 7, "noimage");
-let drdu_season1 = [anita, art, cocoj, elektra, etc, jojo, karen, kita, maxi];
+let drdu_season1 = [anita, art, cocoj, elektra, etc, jojo, karen, kita, maxi, scarletA];
 //DRAG RACE DOWN UNDER SEASON 2
 let aubrey = new Queen("Aubrey Haive", 5, 4, 5, 7, 4, 8, 7, "Aubrey");
 let beverly = new Queen("Beverly Kills", 8, 4, 10, 9, 5, 9, 10, "Beverly");
