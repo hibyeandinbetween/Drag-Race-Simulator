@@ -8974,7 +8974,7 @@ let kimoraA = new Queen("Kimora Amour", 6, 5, 5, 6, 7, 7, 5, "KimoraA");
 let oceane = new Queen("Océane Aqua-Black", 6, 7, 4, 7, 7, 7, 5, "Oceane");
 let pythia = new Queen("Pythia", 8, 7, 8, 12, 9, 12, 7, "Pythia");
 let stephanie = new Queen("Stephanie Prince", 6, 5, 6, 10, 5, 11, 6, "Stephanie");
-let suki = new Queen("Suki Doll", 8, 7, 6, 9, 5, 9, 5, "Suki");
+let suki = new Queen("Suki Doll", 8, 7, 6, 15, 5, 9, 5, "Suki");
 let synthia = new Queen("Synthia Kiss", 6, 8, 10, 7, 9, 7, 9, "Synthia");
 let can_season2 = [adriana, beth, eve, giametric, icesis, kendall, kimoraA, oceane, pythia, stephanie, suki, synthia];
 //CAN SEASON 2
